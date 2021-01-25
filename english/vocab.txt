@@ -1,0 +1,3 @@
+Aggregate = A sum of many separate things taken together.
+Anarchy = A state of lawlessness and disorder.
+Apathy = A lack of interest in something.
