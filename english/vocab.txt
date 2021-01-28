@@ -16,3 +16,9 @@ Eulogy = A speech or piece of writing that praises someone or something highly, 
 
 Decorum = Behavior in keeping with good teast and propriety.
 
+Aberrant = Departing from an accepted standard.
+
+Aesthetic = Concerned with beauty or the appreciation of beauty.
+
+Ambiguous = open to more than one interpretation , having a double meaning.
+
