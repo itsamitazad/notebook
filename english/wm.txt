@@ -23,3 +23,5 @@ Aesthetic = Concerned with beauty or the appreciation of beauty.
 Ambiguous = open to more than one interpretation , having a double meaning.
 
 convivial = frindly.
+
+connubial = husband and wife.
