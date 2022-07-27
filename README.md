@@ -5,7 +5,7 @@ Hi I am "AMIT AZAD" and this is my Virtual Notebook!
 #languages
 
 1. english
-2. brahmi
+2. pali
 
 #science
 1. general science
